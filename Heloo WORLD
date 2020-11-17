@@ -1,2 +1,2 @@
-# repositori-world
+# repositori-dunia
 Repositori ini dengan README
